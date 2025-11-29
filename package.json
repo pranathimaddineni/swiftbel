@@ -1,0 +1,50 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@builder.io/react": "^2.0.12",
+    "@material-ui/core": "^4.12.4",
+    "@react-google-maps/api": "^2.17.1",
+    "@reduxjs/toolkit": "^1.9.1",
+    "@stripe/react-stripe-js": "^1.16.3",
+    "@stripe/stripe-js": "^1.46.0",
+    "axios": "^1.2.2",
+    "babel-plugin-styled-components": "^2.0.7",
+    "bootstrap": "^5.2.3",
+    "firebase": "^9.15.0",
+    "google": "^2.1.0",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.4",
+    "next": "latest",
+    "next-auth": "^4.18.8",
+    "next-redux-wrapper": "^8.1.0",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.7.0",
+    "react-calendar": "^4.0.0",
+    "react-dom": "18.2.0",
+    "react-elastic-carousel": "^0.11.5",
+    "react-geocode": "^0.2.3",
+    "react-google-autocomplete": "^2.7.1",
+    "react-google-maps": "^9.4.5",
+    "react-otp-input": "^2.4.0",
+    "react-phone-number-input": "^3.2.15",
+    "react-redux": "^8.0.5",
+    "react-select-country-list": "^2.2.3",
+    "react-slick": "^0.29.0",
+    "react-text-loop": "^2.3.0",
+    "react-use-intercom": "^2.0.0",
+    "redux": "^4.2.0",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.2",
+    "sharp": "^0.31.3",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  }
+}
